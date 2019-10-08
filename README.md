@@ -1,2 +1,2 @@
 # JWT.Senad.Youtube
-# Generates and Authenticate JWT
+# Generates and Authenticate JWT (Basing on roles)
